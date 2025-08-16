@@ -1,0 +1,14 @@
+pear-trees-site/
+│
+├── index.html          ← Homepage: hero, intro, overview
+├── gallery.html        ← Gallery: semantic figure grid
+├── updates.html        ← Updates: date-driven posts
+├── contact.html        ← Contact: accessible form
+├── products.html       ← Products (coming soon)
+├── _data/
+│   └── updates.json    ← Update metadata (for future JS enhancements)
+├── css/
+│   └── styles.css      ← Core styles with variables
+└── js/
+    ├── main.js         ← Site-wide interactivity
+    └── hideProducts.js ← Logic to hide/enable products link
