@@ -85,3 +85,7 @@
     background: var(--light-green);
     font-size: 0.9rem;
   }
+
+  .centered-title {
+    text-align: center;
+  }
